@@ -1,0 +1,32 @@
+{
+  "code":0,
+  "message":"OK",
+  "total":100,
+  "page_size":6,
+  "data":[
+    {"goodsId":0,
+    "spanSize":4,
+      "banners":[
+        "https://preview.qiantucdn.com/58pic/32/70/90/62z58PICfTa0N4fmdKazU_PIC2018.jpg!w1024_small"
+      ]
+    },
+    {
+      "goodsId":1,
+      "text":"测试描述1",
+      "imageUrl":"https://img.alicdn.com/imgextra/i2/645780122/O1CN01UOAhDF1ClupquCtRt_!!0-item_pic.jpg_430x430q90.jpg",
+      "spanSize":4
+    },
+    {
+      "goodId":2,
+      "text":"测试描述2",
+      "imagineUrl":"https://img.alicdn.com/imgextra/i4/604622217/O1CN018aoKOo1SFQcHWVJRV_!!604622217.jpg",
+      "spanSize":2
+    },
+    {
+      "goodId":3,
+      "text":"测试描述3",
+      "imagineUrl":"https://img.alicdn.com/imgextra/i2/504729396/O1CN01Hn13Ax2JHPxiEunc9-504729396.jpg",
+      "spanSize":2
+    }
+  ]
+}
