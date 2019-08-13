@@ -1,0 +1,21 @@
+{
+ "code":0,
+  "message":"ok",
+  "data":[
+    {
+      "title":"商品标签1",
+      "desc":"详细描述1",
+      "id":1,
+      "price":1.00,
+      "count":2,
+      "thumb":"https://img.alicdn.com/bao/uploaded/i1/2424952765/O1CN0190dllp1WIPdhXtFdT_!!2424952765.png_80x80.jpg"
+    },{
+      "title":"商品标签2",
+      "desc":"详细描述2",
+      "id":3,
+      "price":3.00,
+      "count":3,
+      "thumb":"https://img.alicdn.com/bao/uploaded/i1/1738812117/TB25fzyp_tYBeNjy1XdXXXXyVXa_!!1738812117.jpg_80x80.jpg"
+    }
+  ]
+}

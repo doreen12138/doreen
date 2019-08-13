@@ -1,0 +1,35 @@
+{
+  "code":0,
+  "message":"ok",
+  "data":{
+    "content":"商品描述",
+    "banners":[
+      "https://img.alicdn.com/imgextra/i2/2431813891/O1CN01bTxLxp1ec7dsD4aWK_!!0-item_pic.jpg_430x430q90.jpg",
+      "https://img.alicdn.com/imgextra/i1/2431813891/O1CN01QfH1OX1ec7dhGJFvW_!!2431813891.jpg_60x60q90.jpg",
+      "https://img.alicdn.com/imgextra/i3/2431813891/O1CN01QvDTNt1ec7ddxfQkD_!!2431813891.jpg_60x60q90.jpg"
+    ],
+    "tabs":[
+      {
+      "name":"商品详情",
+        "pictures":[
+          "https://img.alicdn.com/imgextra/i2/2431813891/TB2PJQWhf5TBuNjSspmXXaDRVXa_!!2431813891.jpg",
+          "https://img.alicdn.com/imgextra/i3/2431813891/TB2ta3mhf9TBuNjy0FcXXbeiFXa_!!2431813891.jpg",
+        ]
+        },
+      {
+        "name":"参数规格",
+        "picture":[
+          "https://img.alicdn.com/imgextra/i2/2431813891/TB2xld4hCtYBeNjSspkXXbU8VXa_!!2431813891.jpg",
+          "https://img.alicdn.com/imgextra/i1/2431813891/O1CN01gMgGLG1ec7bgybDqH_!!2431813891.jpg"
+        ]
+    }
+    ],
+    "specification":"规格参数",
+    "inventory":"包含",
+    "id":1,
+    "name":"旗袍1",
+    "description":"哈哈哈哈",
+    "price":123.00,
+    "thumb":"https://img.alicdn.com/imgextra/i2/2431813891/TB2.al2aHsTMeJjy1zeXXcOCVXa_!!2431813891.jpg_60x60q90.jpg"
+  }
+}

@@ -7,25 +7,54 @@
     {"goodsId":0,
     "spanSize":4,
       "banners":[
-        "https://preview.qiantucdn.com/58pic/32/70/90/62z58PICfTa0N4fmdKazU_PIC2018.jpg!w1024_small"
+        "https://preview.qiantucdn.com/58pic/32/70/90/62z58PICfTa0N4fmdKazU_PIC2018.jpg!w1024_small",
+        "https://img.alicdn.com/simba/img/TB1cvXwb7xz61VjSZFtSuuDSVXa.jpg",
+        "https://img.alicdn.com/simba/img/TB1HY64aKP2gK0jSZFoSuuuIVXa.jpg"
       ]
     },
     {
       "goodsId":1,
       "text":"测试描述1",
-      "imageUrl":"https://img.alicdn.com/imgextra/i2/645780122/O1CN01UOAhDF1ClupquCtRt_!!0-item_pic.jpg_430x430q90.jpg",
+      "imageUrl":"https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i3/109368835/O1CN01yZxwiE2F8TkC3bYJe_!!0-saturn_solar.jpg_460x460Q90.jpg_.webp",
       "spanSize":4
     },
     {
-      "goodId":2,
+      "goodsId":2,
       "text":"测试描述2",
-      "imagineUrl":"https://img.alicdn.com/imgextra/i4/604622217/O1CN018aoKOo1SFQcHWVJRV_!!604622217.jpg",
+      "imageUrl":"https://img.alicdn.com/imgextra/i4/604622217/O1CN018aoKOo1SFQcHWVJRV_!!604622217.jpg",
       "spanSize":2
     },
     {
-      "goodId":3,
+      "goodsId":3,
       "text":"测试描述3",
-      "imagineUrl":"https://img.alicdn.com/imgextra/i2/504729396/O1CN01Hn13Ax2JHPxiEunc9-504729396.jpg",
+      "imageUrl":"https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/2431813891/O1CN01hbac5z1ec7a1PAwvX_!!0-item_pic.jpg_460x460Q90.jpg_.webp",
+      "spanSize":2
+    },{
+      "goodsId":4,
+      "text":"测试描述4",
+      "imageUrl":"https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/4128960854/O1CN01PfttHS1IBAmfweBM8_!!0-item_pic.jpg_460x460Q90.jpg_.webp",
+      "spanSize":4
+    },
+    {
+      "goodsId":5,
+      "imageUrl":"https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/1042138107/O1CN01ctSqDG29l3R7STi3o_!!0-item_pic.jpg_460x460Q90.jpg_.webp",
+      "spanSize":4
+    },{
+      "goodsId":6,
+      "text":"野广告",
+      "spanSize":4
+    },{
+      "goodsId":7,
+      "text":"描述5",
+      "imageUrl":"https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/645780122/O1CN01k453Rr1ClupUs9SvW_!!0-item_pic.jpg_460x460Q90.jpg_.webp",
+      "spanSize":4
+    },{
+      "goodsId":8,
+      "imageUrl":"https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/504729396/O1CN01hFlQD52JHPyqoaMKx-504729396.jpg_460x460Q90.jpg_.webp",
+      "spanSize":2
+    },{
+      "goodsId":9,
+      "imageUrl":"https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/504729396/O1CN01dVuoDL2JHPyrXYFvh_!!0-item_pic.jpg_460x460Q90.jpg_.webp",
       "spanSize":2
     }
   ]
